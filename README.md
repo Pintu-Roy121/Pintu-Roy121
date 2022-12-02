@@ -3,7 +3,7 @@
 ### Hi 👋, This is Pintu Roy
 #### MERN Stack Developer
 
-I am a Web developer with an amazing ability to develop websites that are both functional and aesthetically pleasing. I have a strong understanding of web standards and best practices, and I am passionate about creating websites that users will find easy to use and visually appealing. I am also proficient in a variety of programming languages and tools, and I have a proven track record of delivering successful projects on time and within budget.
+I am Front End web developer. I always love errors because error makes a programmer more confident and help to overcome errors in future. I am very pleasure to learning and also feel very glad to sharing my knowledge to other. Problem solving makes me happy and also be confident about coding.
 
 Habilidades: React.js /Node.js / Express.js/ mongodb / Java Script / HTML / CSS
 

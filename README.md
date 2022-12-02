@@ -1,3 +1,5 @@
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
+
 ### Hi there 👋, This is Pintu Roy
 #### MERN Stack Developer
 I am a Web developer with an amazing ability to develop websites that are both functional and aesthetically pleasing. I have a strong understanding of web standards and best practices, and I am passionate about creating websites that users will find easy to use and visually appealing. I am also proficient in a variety of programming languages and tools, and I have a proven track record of delivering successful projects on time and within budget.

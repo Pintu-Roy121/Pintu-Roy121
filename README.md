@@ -1,4 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
+![MERN Stack Developer](https://i.ibb.co/52YNHY0/Cover-pic.png)
 
 ### Hi there 👋, This is Pintu Roy
 #### MERN Stack Developer

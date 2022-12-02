@@ -6,7 +6,7 @@
 I am Front End web developer. I always love errors because error makes a programmer more confident and help to overcome errors in future. I am very pleasure to learning and also feel very glad to sharing my knowledge to other. Problem solving makes me happy and also be confident about coding.
 
 <div align='center'>
-## Skills: React.js /Node.js / Express.js/ mongodb / Java Script / HTML / CSS
+  <h4>Skills: React.js /Node.js / Express.js/ mongodb / Java Script / HTML / CSS</h4>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -25,11 +25,12 @@ Skills: React.js /Node.js / Express.js/ mongodb / Java Script / HTML / CSS
 </a>
 
 
-<div align="center">
+<div align="center flex">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pintu-roy121)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pintu-roy121&show_icons=true&count_private=true)  
   </div>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pintu-roy121)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pintu-roy121)  
 

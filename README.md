@@ -1,6 +1,7 @@
-### Hola 👋, This is Pintu Roy
-#### MERN Stack Developer
 ![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/D5616AQGZXSM3sza_MA/profile-displaybackgroundimage-shrink_350_1400/0/1669985669286?e=1675296000&v=beta&t=NhNRZroAV2DDPlAfPdmzc-8xEBpH52w5KWb5Da6UWuc)
+
+### Hi 👋, This is Pintu Roy
+#### MERN Stack Developer
 
 I am a Web developer with an amazing ability to develop websites that are both functional and aesthetically pleasing. I have a strong understanding of web standards and best practices, and I am passionate about creating websites that users will find easy to use and visually appealing. I am also proficient in a variety of programming languages and tools, and I have a proven track record of delivering successful projects on time and within budget.
 

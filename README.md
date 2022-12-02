@@ -31,8 +31,6 @@ Habilidades: React.js /Node.js / Express.js/ mongodb / Java Script / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pintu-roy121&show_icons=true&count_private=true)  
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pintu-roy121)
-
 ![GitHub metrics](https://metrics.lecoq.io/pintu-roy121)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=pintu-roy121)  

@@ -1,4 +1,4 @@
-![MERN Stack Developer](https://www.linkedin.com/in/pintu-roy-623ab614a/overlay/background-image/)
+![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/D5616AQGZXSM3sza_MA/profile-displaybackgroundimage-shrink_350_1400/0/1669985669286?e=1675296000&v=beta&t=NhNRZroAV2DDPlAfPdmzc-8xEBpH52w5KWb5Da6UWuc)
 
 # Hi 👋, This is Pintu Roy
 ## MERN Stack Developer

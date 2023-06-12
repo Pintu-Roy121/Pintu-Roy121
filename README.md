@@ -1,4 +1,4 @@
-![MERN Stack Developer](https://i.ibb.co/FBxKxC4/storage-emulated-0-DCIM-convert-security-files-1668272061608-1.jpg)
+![MERN Stack Developer](https://i.ibb.co/gwSYnfy/Cover-pic.png)
 
 # Hi 👋, This is Pintu Roy
 ## MERN Stack Developer

@@ -1,4 +1,4 @@
-![MERN Stack Developer](https://pintu-roy2.imgbb.com/)
+![MERN Stack Developer](https://i.ibb.co/q0ZmpSS/Cover-pic.png)
 # Hi 👋, This is Pintu Roy
 ## MERN Stack Developer
 

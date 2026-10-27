@@ -86,6 +86,8 @@ Passionate about problem-solving, writing clean and maintainable code, optimizin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 </p> 
+<br />
+<br />
 <div align="center">
  <a href="https://linkedin.com/in/pintu-roy-623ab614a" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -124,11 +126,6 @@ Passionate about problem-solving, writing clean and maintainable code, optimizin
   </table>
 </div>
 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pintu-roy121)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pintu-roy121&show_icons=true&count_private=true)  
-
 <br />
 <br />
 
@@ -137,7 +134,6 @@ Passionate about problem-solving, writing clean and maintainable code, optimizin
     src="https://metrics.lecoq.io/pintu-roy121"
     alt="GitHub Metrics"
   />
-</div>
-![GitHub metrics](https://metrics.lecoq.io/pintu-roy121)  
+</div> 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=pintu-roy121)  

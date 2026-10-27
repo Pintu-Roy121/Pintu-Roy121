@@ -130,10 +130,10 @@ Passionate about problem-solving, writing clean and maintainable code, optimizin
 <br />
 
 <div align="center">
-  <img
+  <!-- <img
     src="https://metrics.lecoq.io/pintu-roy121"
     alt="GitHub Metrics"
-  />
+  /> -->
+![GitHub streak stats](https://streak-stats.demolab.com/?user=pintu-roy121)  
 </div> 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=pintu-roy121)  

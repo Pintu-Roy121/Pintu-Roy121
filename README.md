@@ -100,7 +100,8 @@ Passionate about problem-solving, writing clean and maintainable code, optimizin
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>
-
+<br />
+<br />
 
 <div align="center">
   <table>
@@ -128,7 +129,15 @@ Passionate about problem-solving, writing clean and maintainable code, optimizin
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pintu-roy121&show_icons=true&count_private=true)  
 
+<br />
+<br />
 
+<div align="center">
+  <img
+    src="https://metrics.lecoq.io/pintu-roy121"
+    alt="GitHub Metrics"
+  />
+</div>
 ![GitHub metrics](https://metrics.lecoq.io/pintu-roy121)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=pintu-roy121)  

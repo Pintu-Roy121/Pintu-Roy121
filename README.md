@@ -3,10 +3,12 @@
 # Hi 👋, This is Pintu Roy
 ## Full-Stack Developer
 
-I am Front End web developer. I always love errors because error makes a programmer more confident and help to overcome errors in future. I am very pleasure to learning and also feel very glad to sharing my knowledge to other. Problem solving makes me happy and also be confident about coding.
+Full-Stack Developer with 4+ years of experience building scalable, responsive, and high-performance web applications using React.js, Next.js, TypeScript, Node.js, and Express.js.  
+Experienced in RESTful API development, database management, and ORMs/ODMs including Prisma, Sequelize, and Mongoose, with PostgreSQL and MongoDB.  
+Passionate about problem-solving, writing clean and maintainable code, optimizing application performance, and continuously learning modern technologies to deliver reliable software solutions.
 
 <div align='center'>
-  <h2>Skills: React.js /Node.js / Express.js/ mongodb / JavaScript/TypeScript / Prisma / Postgres / HTML / CSS</h2>
+  <h2>Skills: React.js /Node.js / Express.js/ mongodb / JavaScript/TypeScript / Prisma / Postgres </h2>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>

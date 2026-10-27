@@ -50,13 +50,8 @@ I am Front End web developer. I always love errors because error makes a program
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
 
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"
-    alt="Prisma"
-    width="40"
-    height="40"
-  />
+ <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>

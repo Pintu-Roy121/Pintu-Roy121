@@ -1,12 +1,12 @@
 ![MERN Stack Developer](https://i.ibb.co/gwSYnfy/Cover-pic.png)
 
 # Hi 👋, This is Pintu Roy
-## MERN Stack Developer
+## Full-Stack Developer
 
 I am Front End web developer. I always love errors because error makes a programmer more confident and help to overcome errors in future. I am very pleasure to learning and also feel very glad to sharing my knowledge to other. Problem solving makes me happy and also be confident about coding.
 
 <div align='center'>
-  <h2>Skills: React.js /Node.js / Express.js/ mongodb / Java Script / HTML / CSS</h2>
+  <h2>Skills: React.js /Node.js / Express.js/ mongodb / JavaScript/TypeScript / Prisma / Postgres / HTML / CSS</h2>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -64,7 +64,9 @@ I am Front End web developer. I always love errors because error makes a program
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
-  <a href="https://linkedin.com/in/pintu-roy-623ab614a" target="_blank">
+ 
+</p> 
+ <a href="https://linkedin.com/in/pintu-roy-623ab614a" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/pintu.roy.5680899" target="_blank">
@@ -76,10 +78,6 @@ I am Front End web developer. I always love errors because error makes a program
 <a href="https://twitter.com/pinturoy29" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-</p> 
-
-
-
 
 
   

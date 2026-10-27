@@ -102,6 +102,27 @@ Passionate about problem-solving, writing clean and maintainable code, optimizin
 </div>
 
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu-roy121&layout=compact"
+          alt="Top Languages"
+          height="180"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=pintu-roy121&show_icons=true&count_private=true"
+          alt="GitHub Stats"
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pintu-roy121)](https://github.com/anuraghazra/github-readme-stats)
 

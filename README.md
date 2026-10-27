@@ -30,7 +30,7 @@ Passionate about problem-solving, writing clean and maintainable code, optimizin
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
@@ -86,7 +86,7 @@ Passionate about problem-solving, writing clean and maintainable code, optimizin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 </p> 
-
+<div align="center">
  <a href="https://linkedin.com/in/pintu-roy-623ab614a" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -99,6 +99,7 @@ Passionate about problem-solving, writing clean and maintainable code, optimizin
 <a href="https://twitter.com/pinturoy29" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+</div>
 
 
   

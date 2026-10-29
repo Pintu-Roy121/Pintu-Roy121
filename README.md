@@ -3,8 +3,7 @@
 # Hi 👋, This is Pintu Roy
 ## Full-Stack Developer
 
-Full-Stack Developer with 4+ years of experience building scalable, responsive, and high-performance web applications using React.js, Next.js, TypeScript, Node.js, and Express.js.  
-Experienced in RESTful API development, database management, and ORMs/ODMs including Prisma, Sequelize, and Mongoose, with PostgreSQL and MongoDB.  
+Full-Stack Developer with 4+ years of experience building scalable, responsive, and high-performance web applications using React.js, Next.js, TypeScript, Node.js, and Express.js. Experienced in RESTful API development, database management, and ORMs/ODMs including Prisma, Sequelize, and Mongoose, with PostgreSQL and MongoDB.  
 Passionate about problem-solving, writing clean and maintainable code, optimizing application performance, and continuously learning modern technologies to deliver reliable software solutions.
 
 <!-- <div align='center'>
